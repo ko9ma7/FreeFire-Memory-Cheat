@@ -24,5 +24,7 @@
                 else if (type == "ONLY RED")
                 {
                     changeMEMORY("OTYgMDAgMDAgMDAgMDAgMDAgQjAgNDAgMDAgMDAgODAgM0YgMDAgMDAgNDAgM0Y=", "OTYgMDAgMDAgMDAgMDAgMDAgQjggNDAgMDAgMDAgMDAgMDAgMDAgMDAgMDAgMDA=");
-                }````
+                }
 
+
+A simple but very well done source
