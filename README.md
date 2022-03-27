@@ -5,6 +5,7 @@
 ![menu](https://user-images.githubusercontent.com/83485103/160306636-0a846ec6-8911-4b59-ba36-3414d10a5b18.png)
 
 ### :world_map: separate codes
+
 ````                if (type == "NORECOIL")
                 {
                     changeMEMORY("ODAgMzcgOEYgM0M=", "MDAgRDcgNUIgMDA=");
