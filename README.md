@@ -15,3 +15,5 @@ AIMBOT changeMEMORY("NjIgNmYgNmUgNjUgNWYgNDggNjkgNzAgNzM=", "NjIgNmYgNmUgNjUgNWY
 AIMFOV   changeMEMORY("QUUgNDcgMDEgM0Y=", "ODAgN0IgRTEgRkYgRkYgRkYgRkYgRkY=");
 
 A simple but very well done source
+
+Functional in Bluestacks and MSI
