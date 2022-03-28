@@ -8,10 +8,10 @@
 
 ```` 
                 
-                 NORECOIL  changeMEMORY("ODAgMzcgOEYgM0M=", "MDAgRDcgNUIgMDA=");     
+NORECOIL  changeMEMORY("ODAgMzcgOEYgM0M=", "MDAgRDcgNUIgMDA=");     
 
-                 AIMBOT changeMEMORY("NjIgNmYgNmUgNjUgNWYgNDggNjkgNzAgNzM=", "NjIgNmYgNmUgNjUgNWYgNDggNjUgNjEgNjQ=");
+AIMBOT changeMEMORY("NjIgNmYgNmUgNjUgNWYgNDggNjkgNzAgNzM=", "NjIgNmYgNmUgNjUgNWYgNDggNjUgNjEgNjQ=");
 
-                 AIMFOV   changeMEMORY("QUUgNDcgMDEgM0Y=", "ODAgN0IgRTEgRkYgRkYgRkYgRkYgRkY=");
+AIMFOV   changeMEMORY("QUUgNDcgMDEgM0Y=", "ODAgN0IgRTEgRkYgRkYgRkYgRkYgRkY=");
 
 A simple but very well done source
