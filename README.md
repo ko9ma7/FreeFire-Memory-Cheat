@@ -6,26 +6,12 @@
 
 ### :world_map: separate codes
 
-````                if (type == "NORECOIL")
-                {
-                    changeMEMORY("ODAgMzcgOEYgM0M=", "MDAgRDcgNUIgMDA=");
-                }
-                else if (type == "NORECOILDESATIVAR")
-                {
-                    changeMEMORY("MDAgRDcgNUIgMDA=", "ODAgMzcgOEYgM0M=");
-                }
-                else if (type == "AIMBOT")
-                {
-                    changeMEMORY("NjIgNmYgNmUgNjUgNWYgNDggNjkgNzAgNzM=", "NjIgNmYgNmUgNjUgNWYgNDggNjUgNjEgNjQ=");
-                }
-                else if (type == "AIMFOV")
-                {
-                    changeMEMORY("QUUgNDcgMDEgM0Y=", "ODAgN0IgRTEgRkYgRkYgRkYgRkYgRkY=");
-                }
-                else if (type == "ONLY RED")
-                {
-                    changeMEMORY("OTYgMDAgMDAgMDAgMDAgMDAgQjAgNDAgMDAgMDAgODAgM0YgMDAgMDAgNDAgM0Y=", "OTYgMDAgMDAgMDAgMDAgMDAgQjggNDAgMDAgMDAgMDAgMDAgMDAgMDAgMDAgMDA=");
-                }
+```` 
+                
+                 NORECOIL  changeMEMORY("ODAgMzcgOEYgM0M=", "MDAgRDcgNUIgMDA=");     
 
+                 AIMBOT changeMEMORY("NjIgNmYgNmUgNjUgNWYgNDggNjkgNzAgNzM=", "NjIgNmYgNmUgNjUgNWYgNDggNjUgNjEgNjQ=");
+
+                 AIMFOV   changeMEMORY("QUUgNDcgMDEgM0Y=", "ODAgN0IgRTEgRkYgRkYgRkYgRkYgRkY=");
 
 A simple but very well done source
